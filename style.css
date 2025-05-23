@@ -1,11 +1,11 @@
-body{
+.bg{
 	background-color:#023F6C;
 }
 
 h1,p{
 	color:#E3D4A5;
 }
-a{
+.links{
 	color:#C90000;
 }
 
